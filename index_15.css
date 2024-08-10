@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.para/*,*/
+ /* .small-para*/ {
+    color: hsl(0, 0%, 0%);
+    font-weight: 800;
+    font-size: 22px; /* en vez de hacer otro selector abajo, simplemente se agrega el atributo en este*/
+  }
+
+.small-para {
+    font-size: 14px;
+    font-weight: 800;
+  }
+
+/*.para {
+    font-size: 22px;
+  }*/
+
+.confirm {
+    background: green;
+    color: white;
+    font-weight: bold;
+    font-size: 20px; /*le agrego tamaño al boton para que quede como la referencia*/
+  }
+
+.cancel{/*button*/ /*cambio el selector "button" por "cancel"*/
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+
+.text { /*cambio el selector "child" por "text", para que abarque bien*/
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-weight: 100;
+  }
+
+.child{/*cambio "div.text" por "child"*/
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 14px;
+  }
+   
+  
+  

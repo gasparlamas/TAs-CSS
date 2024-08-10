@@ -1,0 +1,29 @@
+div#caja{
+    width: 500px;
+    height: 110px;
+    border: 20px;
+    border-style:solid;
+    float: left;
+}
+
+.button{
+    font-size: 28px;
+    font-family: Helvetica,Times New Roman, sans-serif;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    text-align: center; 
+      
+}
+
+.uno{
+    background-color: black;
+    color: white;
+    width: 200px;
+     
+}
+
+.dos{
+    background-color: yellow;
+    width: 240px;
+}

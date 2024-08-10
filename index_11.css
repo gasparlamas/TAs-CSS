@@ -1,0 +1,20 @@
+.impar{
+    background-color: salmon;
+    font-family: Verdana, DejaVu Sans ,sans-serif;
+}
+
+p2{
+    color: blue;
+    font-size: 36px;
+
+}
+
+.tres{
+    font-size: 24px;
+}
+
+p4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bolder;
+}
