@@ -1,0 +1,19 @@
+.tarjeta{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+
+.tarjeta img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
